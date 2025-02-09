@@ -14,12 +14,19 @@ I hope you're all right . Today I am going to share a project with you and I wan
 
 #What was extracted .
 How prices and valuations have changed over time .
+
 Analysis of the length of stay and bookings .
+
 average number of nights booked .
+
 impact of geographical location on prices .
+
 most areas that contain real estate .
+
 most expensive and cheapest real estate .
+
 effect of fees on the total price .
+
 difference in prices between new and old hosts .
 
 
